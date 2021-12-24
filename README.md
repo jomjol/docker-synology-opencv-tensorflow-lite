@@ -1,3 +1,5 @@
+<span style="color: red;">This code is depreciated and will not be maintained any more!</span> 
+
 # docker-synology-opencv-tensorflow-lite
 Docker image with Tensorflow **lite** and OpenCV for Synology with Intelprocessor
 
